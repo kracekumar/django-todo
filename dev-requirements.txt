@@ -1,0 +1,5 @@
+Django==1.6
+python-social-auth==0.1.17
+psycopg2==2.5.1
+ipython
+django-werkzeug-debugger-runserver
